@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+.doc h1,
+.doc h2,
+.doc h3,
+.doc h4 {
+  scroll-margin-top: 6rem;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  .print-full {
+    position: static !important;
+    overflow: visible !important;
+    height: auto !important;
+    max-height: none !important;
+    display: block !important;
+  }
+  html,
+  body {
+    background: #fff !important;
+  }
+}
