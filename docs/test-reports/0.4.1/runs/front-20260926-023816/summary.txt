@@ -1,0 +1,1 @@
+PASS  [min] Frontend: button, counter, toast, re-click (chromium) — 17/17 проверок

@@ -1,0 +1,2 @@
+PASS  [min] Core-logic autotests (limits, categories, merge) — Проверок: 41, провалено: 0
+PASS  [min] REST API (nonce, limits, CRUD, merge) —   проверок: 12, провалено: 0

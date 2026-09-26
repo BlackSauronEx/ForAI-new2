@@ -1,0 +1,4 @@
+total 208
+-rw-r--r-- 1 user user  86100 Sep 26 02:38 min-compare.png
+-rw-r--r-- 1 user user 103681 Sep 26 02:38 min-menu.png
+-rw-r--r-- 1 user user  14475 Sep 26 02:38 min-requirements.png

@@ -1,0 +1,7 @@
+PASS  [min] Activation — 6.6.9 · WooCommerce 9.0.4 · PHP 8.1
+PASS  [min] Data version written at activation — rvn_compare_version = 0.4.1
+PASS  [min] Browser: RVN menu, pages, Settings link (chromium) — 12/12 проверок
+PASS  [min] Without WooCommerce: notice instead of operation — 4/4 проверок
+PASS  [min] Uninstall with deletion disabled keeps data — rvn_compare_version in place
+PASS  [min] Default uninstall cleans data — plugin options removed
+PASS  [min] WP_DEBUG: nothing from the plugin — other-component entries: 0
